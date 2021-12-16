@@ -5,5 +5,5 @@
   xpack.enabled: true
   period: 10s
   hosts: ["localhost:9600"]
-  #username: "user"
-  #password: "secret"
+  username: "elastic"
+  password: "changeme"
